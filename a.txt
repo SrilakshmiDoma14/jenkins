@@ -4,5 +4,5 @@ F1 branch changes
 hi
 hello
 waste fellow....
-<<<<<<< HEAD
-I you
+I love you
+>>>>>>> master
